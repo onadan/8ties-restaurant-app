@@ -17,10 +17,10 @@ function App() {
       <Navbar />    
 
       <Routes>
-        <Route exact path="/" element={<Home />}></Route>
-        <Route exact path="/about" element={<About />}></Route>
-        <Route exact path="/products" element={<Products />}></Route>
-        <Route exact path="/contact" element={<Contact />}></Route>
+        <Route exact path="/8ties-restaurant-app" element={<Home />}></Route>
+        <Route exact path="/8ties-restaurant-app/about" element={<About />}></Route>
+        <Route exact path="/8ties-restaurant-app/products" element={<Products />}></Route>
+        <Route exact path="/8ties-restaurant-app/contact" element={<Contact />}></Route>
       </Routes>
 
       <Footer />
