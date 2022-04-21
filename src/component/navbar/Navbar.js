@@ -9,10 +9,10 @@ function Navbar() {
     <div className="logo">LOGO</div>
 
         <ul>
-            <Link to="/" className="link"><li>Home</li></Link>
-            <Link to="/about" className="link"><li>About</li></Link>
-            <Link to="/products" className="link"><li>Products</li></Link>
-            <Link to="/contact" className="link"><li>Contact</li></Link>
+            <Link to="/8ties-restaurant-app" className="link"><li>Home</li></Link>
+            <Link to="/8ties-restaurant-app/about" className="link"><li>About</li></Link>
+            <Link to="/8ties-restaurant-app/products" className="link"><li>Products</li></Link>
+            <Link to="/8ties-restaurant-app/contact" className="link"><li>Contact</li></Link>
         </ul>
     </div>
   )
