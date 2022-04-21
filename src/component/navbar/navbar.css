@@ -1,0 +1,38 @@
+.navbar {
+    min-height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+    box-shadow: 0px 1px 5px rgb(104, 24, 24);
+    overflow: hidden;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 40%;
+    height: 100%;
+}
+
+.navbar ul li {
+    list-style-type: none;
+    display: inline-flex;
+    padding: 10px;
+    margin: 0 1px;
+    color: #000;
+    font-size: 18px;
+    height: 100%;
+    font-weight: 600;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 24px;
+}
