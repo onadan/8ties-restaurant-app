@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <div className="navbar">
 
-    <div className="logo">LOGO</div>
+    <div className="logo">8TIES</div>
 
         <ul>
             <Link to="/8ties-restaurant-app" className="link"><li>Home</li></Link>
