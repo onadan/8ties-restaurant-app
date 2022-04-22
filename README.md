@@ -4,7 +4,7 @@ A restaurant Website built with REACTJS.
 
 By team of interns at Sidehustle as their first Capstone Project of FRONTEND DEVELOPMENT (REACT JS).
 
-You can view the website  [http://localhost:3000](here). 
+You can view the website  [here](https://onadan.github.io/8ties-restaurant-app). 
 
 
 ## Available Scripts
