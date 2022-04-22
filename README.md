@@ -1,7 +1,8 @@
 # 8ties-Restuarant-App
 
-A restaurant Website built with REACTJS. 
-It was by a team of interns as their first capstone project of FRONTEND DEVELOPMENT (REACT JS) on SideHustle.
+A restaurant Website built with REACTJS.
+
+By team of interns at Sidehustle as their first Capstone Project of FRONTEND DEVELOPMENT (REACT JS).
 
 You can view the website  [http://localhost:3000](here). 
 
