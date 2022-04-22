@@ -1,6 +1,6 @@
 # 8ties-Restuarant-App
 
-This is the first capstone project of FRONTEND DEVELOPMENT (REACT JS)_GROUP_80 made with ReactJS
+This is the first capstone project of FRONTEND DEVELOPMENT (REACT JS)_GROUP_80 made with ReactJS.
 
 ## Available Scripts
 
