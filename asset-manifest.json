@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/8ties-restaurant-app/static/css/main.cc15ee18.css",
-    "main.js": "/8ties-restaurant-app/static/js/main.5639f872.js",
+    "main.css": "/8ties-restaurant-app/static/css/main.6adfd117.css",
+    "main.js": "/8ties-restaurant-app/static/js/main.8e4450c0.js",
     "index.html": "/8ties-restaurant-app/index.html",
-    "main.cc15ee18.css.map": "/8ties-restaurant-app/static/css/main.cc15ee18.css.map",
-    "main.5639f872.js.map": "/8ties-restaurant-app/static/js/main.5639f872.js.map"
+    "main.6adfd117.css.map": "/8ties-restaurant-app/static/css/main.6adfd117.css.map",
+    "main.8e4450c0.js.map": "/8ties-restaurant-app/static/js/main.8e4450c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc15ee18.css",
-    "static/js/main.5639f872.js"
+    "static/css/main.6adfd117.css",
+    "static/js/main.8e4450c0.js"
   ]
 }
