@@ -36,3 +36,11 @@
     font-weight: 700;
     font-size: 24px;
 }
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+}
