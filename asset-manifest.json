@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/8ties-restaurant-app/static/css/main.6adfd117.css",
-    "main.js": "/8ties-restaurant-app/static/js/main.8e4450c0.js",
+    "main.css": "/8ties-restaurant-app/static/css/main.0d66a976.css",
+    "main.js": "/8ties-restaurant-app/static/js/main.5fe61316.js",
+    "static/media/home.jpg": "/8ties-restaurant-app/static/media/home.27a72eb75fd6c357ce66.jpg",
+    "static/media/vegetables.jpg": "/8ties-restaurant-app/static/media/vegetables.5b9df235a95627d28ad1.jpg",
+    "static/media/whiterice.jpg": "/8ties-restaurant-app/static/media/whiterice.4ac3dd0e79d69667b87a.jpg",
+    "static/media/ice.jpg": "/8ties-restaurant-app/static/media/ice.6e51e7582a81b20dc9ef.jpg",
+    "static/media/beans.jpg": "/8ties-restaurant-app/static/media/beans.00aaf051fc4723566bfe.jpg",
+    "static/media/tuwo.jpg": "/8ties-restaurant-app/static/media/tuwo.a2f96c848400f3b7b48d.jpg",
+    "static/media/spicerice.jpg": "/8ties-restaurant-app/static/media/spicerice.aaf691cc895d73c3debf.jpg",
+    "static/media/jollof.jpg": "/8ties-restaurant-app/static/media/jollof.743680e0bdec73b32b8d.jpg",
+    "static/media/eba.jpg": "/8ties-restaurant-app/static/media/eba.b834720bb972287af80a.jpg",
+    "static/media/doughnut.jpeg": "/8ties-restaurant-app/static/media/doughnut.50c507de1c24c52f9ba9.jpeg",
+    "static/media/fries.jpeg": "/8ties-restaurant-app/static/media/fries.5ac037e2f0de43cb577d.jpeg",
+    "static/media/soda.jpg": "/8ties-restaurant-app/static/media/soda.69515e259fdf603dd6f3.jpg",
+    "static/media/noodle.jpg": "/8ties-restaurant-app/static/media/noodle.24772ed943779da13e97.jpg",
+    "static/media/friedrice.jpg": "/8ties-restaurant-app/static/media/friedrice.bf2e2d5ef287ec07cb83.jpg",
     "index.html": "/8ties-restaurant-app/index.html",
-    "main.6adfd117.css.map": "/8ties-restaurant-app/static/css/main.6adfd117.css.map",
-    "main.8e4450c0.js.map": "/8ties-restaurant-app/static/js/main.8e4450c0.js.map"
+    "main.0d66a976.css.map": "/8ties-restaurant-app/static/css/main.0d66a976.css.map",
+    "main.5fe61316.js.map": "/8ties-restaurant-app/static/js/main.5fe61316.js.map"
   },
   "entrypoints": [
-    "static/css/main.6adfd117.css",
-    "static/js/main.8e4450c0.js"
+    "static/css/main.0d66a976.css",
+    "static/js/main.5fe61316.js"
   ]
 }
