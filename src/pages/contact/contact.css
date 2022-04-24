@@ -1,0 +1,31 @@
+.contact-page {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 15px;
+    background-image: url('../../img/home.jpg');
+    background-position: center;
+    background-size: cover;
+    /* color: #F2DEAF; */
+    color: #fff;
+    /* margin-top: -60px; */
+    
+    
+}
+
+.contact-box {
+    background-color: rgba(216, 213, 213, 0.5);
+    padding: 30px;
+    backdrop-filter: blur(15px) saturate(180%);
+    border-radius: 25px;
+    max-width: 600px;
+    max-height: 450px
+}
+
+.contact-header {
+    text-align: center;
+    padding: 10px;
+    color: #181818;
+}

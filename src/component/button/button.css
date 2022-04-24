@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+.main-btn {
+    padding: 15px;
+    border: none;
+    border-radius: 25px;
+    background-color: #7F553B;
+    color: #fff;
+    margin: 10px;
+    font-size: 24px;
+    font-family: 'PT Sans', sans-serif;
+    transition: ease-in-out 1s;
+}
+
+@media (max-width:576px) {
+    .main-btn {
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    background-color: #2F2824;
+    color: #fff;
+    margin: 10px;
+    font-size: 16px;
+    font-family: 'PT Sans', sans-serif;
+    }
+}
+
+.main-btn:hover {
+    background-color: #2F2824;
+    transition: ease-in-out 1s;
+}
