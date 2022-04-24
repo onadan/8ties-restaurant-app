@@ -16,6 +16,8 @@ function Home() {
         </Link>
         {/* <p>"People who love to eat are always the best people."</p> */}
       </div>
+
+      
     </div>
   );
 }
