@@ -1,21 +1,35 @@
-import { Link } from "react-router-dom";
-import './navbar.css'
-import React from 'react'
-
-function Navbar() {
+import React, { useState, useRef, useEffect } from "react";
+import { FaBars } from "react-icons/fa";
+import "./navbar.css";
+const Navbar = () => {
+  const [showLinks, setShowLinks] = useState(false);
   return (
-    <div className="navbar">
+    <nav>
+      <div className="nav-center">
+        <div className="nav-header">
+          <h3>Restaurant kitchen</h3>
+          <button
+            className="nav-toggle"
+            onClick={() => setShowLinks(!showLinks)}
+          >
+            <FaBars />
+          </button>
+        </div>
+        <div
+          className={`${
+            showLinks ? " links-container show-container" : "links-container "
+          }`}
+        >
+          <ul className="links">
+            <li>Hello</li>
+            <li>Hello</li>
+            <li>Hello</li>
+            <li>Hello</li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  );
+};
 
-    <div className="logo">8TIES</div>
-
-        <ul>
-            <Link to="/8ties-restaurant-app" className="link"><li>Home</li></Link>
-            <Link to="/8ties-restaurant-app/about" className="link"><li>About</li></Link>
-            <Link to="/8ties-restaurant-app/products" className="link"><li>Products</li></Link>
-            <Link to="/8ties-restaurant-app/contact" className="link"><li>Contact</li></Link>
-        </ul>
-    </div>
-  )
-}
-
-export default Navbar
+export default Navbar;
