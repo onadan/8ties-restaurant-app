@@ -1,21 +1,48 @@
 .card {
     width: 250px;
-    min-height: 350px;
-    /* border: 1px solid red; */
+    margin: 0 auto;
     border-radius: 25px;
     overflow: hidden;
-    box-shadow: 5px 5px 10px rgb(192, 192, 192);
-    margin: 15px;
+    padding-bottom: 0;
 }
 
-.card-img {
+.card-img-top {
+    height: 200px;
+    border-radius: 25px 25px 0 0 ;
+}
+
+.card-body {
+    padding: 0;
+    padding-top: 10px;
+}
+
+.btn {
+    width: 100%;
+    display: block;
+    margin-bottom: 0;
+}
+
+/*.card {
+    width: 250px;
+    /\* width: 18rem; *\/
+    /\* max-height: 350px; *\/
+    /\* border: 1px solid red; *\/
+
+}
+.card:hover {
+    box-shadow: 5px 5px 10px rgb(214, 214, 214);
+    /\* margin: 15px; *\/
+}
+
+.card-img-top {
     overflow: hidden;
     height: 200px;
-    /* border: 1px solid red;
-    border-radius: 25px; */
+    width: 250px;
+    /\* border: 1px solid red;
+     *\/
 }
 
-.card-text-box {
+/\* .card-text-box {
     padding: 5px 15px;
 }
 
@@ -38,9 +65,9 @@
 
     .card {
     width: 150px;
-    min-height: 300px;
-    /* max-height: 350px; */
-    border-radius: 25px;
+    min-height: 300px; *\/
+    /\* max-height: 350px; *\/
+    /\* border-radius: 25px;
     overflow: hidden;
     box-shadow: 5px 5px 10px rgb(192, 192, 192);
     margin: 10px;
@@ -49,8 +76,8 @@
 .card-img {
     overflow: hidden;
     height: 150px;
-    /* border: 1px solid red;
-    border-radius: 25px; */
+    /\* border: 1px solid red;
+    border-radius: 25px; 
 }
 
 .card-img img {
@@ -72,6 +99,6 @@
     font-weight: 700;
     margin-top: 10px;
     font-size: 14px;
-}
+} *\/
 
-}
+}*/
