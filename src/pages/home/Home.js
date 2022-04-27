@@ -92,7 +92,7 @@ function Home() {
             </div>
 
             <div class="card">
-              <Link class="mt-5gi" to="/8ties-restaurant-app/products" className="link">
+              <Link class="mt-5" to="/8ties-restaurant-app/products" className="link">
                 <Button value="see more" />
               </Link>
             </div>
