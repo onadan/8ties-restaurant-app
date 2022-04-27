@@ -56,7 +56,7 @@ function Home() {
         </div>
       </div>
 
-      <div class="container-fluid">
+      <div class="container">
         <div class="row">
           <h1 class="text-center p-5">
             OUR PRODUCTS
@@ -66,10 +66,10 @@ function Home() {
           <div class="card-group">
             <div class="card">
               <img class="card-img-top" src={Soda} alt=""/>
-              <h1 class="card-title">Tuwo</h1>
+              <h1 class="card-title">Soda</h1>
               <p class="card-text">2500</p>
               <Link to="/8ties-restaurant-app/products" className="link">
-                <Button value="Order" />
+                <Button value=<i className="bi bi-cart h1 mx-2"></i> />
               </Link>
             </div>
 
@@ -78,7 +78,7 @@ function Home() {
               <h1 class="card-title">Jollof</h1>
               <p class="card-text">2500</p>
               <Link to="/8ties-restaurant-app/products" className="link">
-                <Button value="Order" />
+                <Button value=<i className="bi bi-cart h1 mx-2"></i> />
               </Link>
             </div>
 
@@ -88,13 +88,16 @@ function Home() {
               <h1 class="card-title">Noodles</h1>
               <p class="card-text">2500</p>
               <Link to="/8ties-restaurant-app/products" className="link">
-                <Button value="Order" />
+                <Button value= <i className="bi bi-cart h1 mx-2"></i>
+                   />
+
               </Link>
             </div>
 
             <div class="card">
               <Link class="mt-5" to="/8ties-restaurant-app/products" className="link">
-                <Button value="see more" />
+                <Button value= <i className="bi bi-arrow-right h1 mx-2">See more</i>/>
+
               </Link>
             </div>
 
