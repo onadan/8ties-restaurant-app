@@ -29,13 +29,14 @@ function Home() {
             ABOUT US
           </h1>
         </div>
-        <div class="row no-gutter">
-          <div class="col-xl-6 ">
+        <div class="row gutter">
+          <div class="col-xl-5 ">
             <img class="pissure" src={Fried} alt="about us"/>
           </div>
+          <div class="col-xl-2"></div>
 
-          <div class="col-xl-6">
-            <p class="ml-5 justify-right fried">
+          <div class="col-xl-5">
+            <p class="mr-5 text-justify fried">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reiciendis
               placeat inventore voluptatibus accusantium incidunt. Id, dolores
               eligendi. Impedit itaque consequatur debitis. Eos ullam harum hic
