@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/8ties-restaurant-app/static/css/main.0d66a976.css",
-    "main.js": "/8ties-restaurant-app/static/js/main.5fe61316.js",
+    "main.css": "/8ties-restaurant-app/static/css/main.7cfef3d9.css",
+    "main.js": "/8ties-restaurant-app/static/js/main.58f8561f.js",
     "static/media/home.jpg": "/8ties-restaurant-app/static/media/home.27a72eb75fd6c357ce66.jpg",
     "static/media/vegetables.jpg": "/8ties-restaurant-app/static/media/vegetables.5b9df235a95627d28ad1.jpg",
     "static/media/whiterice.jpg": "/8ties-restaurant-app/static/media/whiterice.4ac3dd0e79d69667b87a.jpg",
@@ -17,11 +17,11 @@
     "static/media/noodle.jpg": "/8ties-restaurant-app/static/media/noodle.24772ed943779da13e97.jpg",
     "static/media/friedrice.jpg": "/8ties-restaurant-app/static/media/friedrice.bf2e2d5ef287ec07cb83.jpg",
     "index.html": "/8ties-restaurant-app/index.html",
-    "main.0d66a976.css.map": "/8ties-restaurant-app/static/css/main.0d66a976.css.map",
-    "main.5fe61316.js.map": "/8ties-restaurant-app/static/js/main.5fe61316.js.map"
+    "main.7cfef3d9.css.map": "/8ties-restaurant-app/static/css/main.7cfef3d9.css.map",
+    "main.58f8561f.js.map": "/8ties-restaurant-app/static/js/main.58f8561f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d66a976.css",
-    "static/js/main.5fe61316.js"
+    "static/css/main.7cfef3d9.css",
+    "static/js/main.58f8561f.js"
   ]
 }
